@@ -1,0 +1,17 @@
+commit 073420171996fdbc1ecc673f9065e332c39e7b58
+Author: Aleksandra76 <a2l7eks1a9n9d9ra@gmail.com>
+Date:   Mon Feb 19 22:35:46 2018 +0300
+
+    update status.txt
+
+commit 2b6460699dd52ed4afaa01f5701497041b7330d3
+Author: Aleksandra76 <a2l7eks1a9n9d9ra@gmail.com>
+Date:   Mon Feb 19 22:26:38 2018 +0300
+
+    add status.txt
+
+commit b5d5c6860fb18d7dac54f1a0205a0e3827162c25
+Author: Aleksandra76 <a2l7eks1a9n9d9ra@gmail.com>
+Date:   Mon Feb 19 22:24:32 2018 +0300
+
+    add .gitignore
